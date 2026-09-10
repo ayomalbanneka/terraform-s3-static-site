@@ -1,4 +1,5 @@
 # S3 Static Site - Terraform
+<img width="1158" height="674" alt="Diagram Animation with AWS Icons" src="https://github.com/user-attachments/assets/ce5d5b59-d2c3-4bee-9b6b-ea361a585b6b" />
 
 Deploys a static website to Amazon S3 using a reusable Terraform module. No servers, no containers, just an S3 bucket configured for public static website hosting, with Terraform managing both the infrastructure and the file uploads.
 
